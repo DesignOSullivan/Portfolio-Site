@@ -1,0 +1,60 @@
+.jumbotron {
+    background-image: url(/images/Double-Exposure---Daniel-+-Mountains.png);
+    background-size: cover;
+    min-height: 650px;
+}
+
+.container {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.container-alt {
+    background-color: #f36;
+    color: #fff;
+}
+
+h2,
+.display-3 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .2rem;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .2rem;
+    font-weight: 900;
+}
+
+.round {
+    border-radius: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.circle{
+    height: 300px;
+    width: 300px;
+}
+
+.center{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.insetShadow {
+    box-shadow: inset 2px 2px 14px rgba(0, 0, 0, .4);
+}
+
+.card{
+    box-shadow: 4px 4px 14px rgba(0,0,0,.4);
+    border: none;
+}
+
+.card-img-top{
+    max-height: 250px
+}
